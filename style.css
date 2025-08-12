@@ -1,0 +1,6 @@
+body {
+    background-color: #ffd6e0; /* pink pastel */
+    background-image: radial-gradient(white 8%, transparent 9%);
+    background-size: 15px 15px; /* lebih kecil dan rapat */
+    font-family: 'Poppins', sans-serif;
+}
